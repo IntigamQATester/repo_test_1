@@ -1,1 +1,5 @@
 working on new file3
+
+started compenent 2
+
+started component 3
